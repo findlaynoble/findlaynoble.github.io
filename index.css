@@ -1,0 +1,32 @@
+body {
+    background: url("img/background.jpg") no-repeat fixed right;
+    background-color: black;
+  }
+
+table {
+    width: 600px;
+    background-color: black;
+    margin-left: 200px;
+    margin-top: 200px
+
+}
+
+button{
+    width: 40%;
+    color: (230, 26, 26);
+    background-color: orange;
+}
+
+p{
+    color: orangered;
+}
+
+.instruction1{
+    color: red;
+}
+
+h1{
+    color: silver;
+}
+
+

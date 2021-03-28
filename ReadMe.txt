@@ -1,0 +1,1 @@
+To start, please click on the file index.html
